@@ -10,7 +10,7 @@ img{
 header {
 	font-family: "Roboto", sans-serif;
 	text-align: center;
-	background-image: url(header.png);
+	background-image: url(../images/header.png);
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	height: 100vh;
@@ -401,13 +401,13 @@ label {
 	text-indent: -9999px;
 }
 .social-1{
-	background-image: url(social-1.png);
+	background-image: url(../images/social-1.png);
 }.social-2{
-	background-image: url(social-2.png);
+	background-image: url(../images/social-2.png);
 }.social-3{
-	background-image: url(social-3.png);
+	background-image: url(../images/social-3.png);
 }.social-4{
-	background-image: url(social-4.png);
+	background-image: url(../images/social-4.png);
 }
 .container-ctt{
 	display: flex;
@@ -472,7 +472,7 @@ section{
 header {
 	font-family: "Roboto", sans-serif;
 	text-align: center;
-	background-image: url(header.png);
+	background-image: url(../images/header.png);
 	background-size: 100% 100%;
 	height: 100vh;
 }
@@ -770,13 +770,13 @@ label {
 	text-indent: -9999px;
 }
 .social-1{
-	background-image: url(social-1.png);
+	background-image: url(../images/social-1.png);
 }.social-2{
-	background-image: url(social-2.png);
+	background-image: url(../images/social-2.png);
 }.social-3{
-	background-image: url(social-3.png);
+	background-image: url(../images/social-3.png);
 }.social-4{
-	background-image: url(social-4.png);
+	background-image: url(../images/social-4.png);
 }
 .container-ctt{
 	display: flex;
